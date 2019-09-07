@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "19590f0b-02ed-4575-99a6-18533fc12f45",
+            "Value": {
+                "id": "e2bc05da-ecb7-418c-b61d-261332ed5694",
+                "resourcePath": "sprites\\sprBattleBG\\sprBattleBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "20965775-ae8a-49f2-b7b7-7647bb42f169",
             "Value": {
                 "id": "a719a60e-c5c0-430d-b7a9-9adb71f2f29c",
