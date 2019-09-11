@@ -17,12 +17,8 @@
         "d88a7c84-5f8b-4b12-a328-92ca1bee58fd",
         "333a9bd4-b053-49f9-a36a-172060a857ee",
         "739b8f67-04a7-4e57-9c3b-be123d6bdf7d",
-        "a5626863-94ba-4aed-8637-a4bf87418ea7",
         "4ed1ba8f-06e1-4bd5-8ae5-4dbd6d9233d7",
-        "a9188620-a624-4a5a-83ae-a1b53faf038b",
-        "cc98d028-7bdd-4680-85f3-c87a7baa481e",
-        "f418569b-3bdd-4706-a0e4-364317f54032",
-        "ed6a955d-5826-4f98-a450-10b414266c27"
+        "a5626863-94ba-4aed-8637-a4bf87418ea7"
     ],
     "filterType": "root",
     "folderName": "Default",
