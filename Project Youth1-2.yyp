@@ -818,6 +818,25 @@
             }
         },
         {
+            "Key": "ecfcf99d-8410-4b9a-9cca-74c38b306b21",
+            "Value": {
+                "id": "c5e89e4d-cf25-4d27-9e92-aec7a548e95e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprTxtAdvance\/sprTxtAdvance.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "efedbe4a-59cf-469f-aa27-2737f186a734",
             "Value": {
                 "id": "f507c8b7-4cd3-4e66-8f36-d7b92815b9fd",
