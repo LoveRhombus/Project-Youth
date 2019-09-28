@@ -5,13 +5,23 @@
     "name": "objBatttleController",
     "eventList": [
         {
-            "id": "72d28a3a-710b-4826-a979-7bd92721142c",
+            "id": "f992d7de-ae35-423a-8d25-8a39490b8b76",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "79c9dd38-3911-4acc-9449-da9afd4415b9"
+        },
+        {
+            "id": "74746fdd-5c17-45a5-897c-e6c26d87a096",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 7,
             "m_owner": "79c9dd38-3911-4acc-9449-da9afd4415b9"
         }
     ],
@@ -58,6 +68,34 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "maxPP",
+            "varType": 1
+        },
+        {
+            "id": "7740775d-dd51-4d22-ad6c-c91c78ed4558",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "enemyObj",
+            "varType": 5
+        },
+        {
+            "id": "6a28d284-7844-4c28-beaf-30d3a1a382bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "turnCount",
             "varType": 1
         }
     ],

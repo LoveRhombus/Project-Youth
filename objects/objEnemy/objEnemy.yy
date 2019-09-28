@@ -94,6 +94,34 @@
             "value": "0",
             "varName": "enemySprite",
             "varType": 5
+        },
+        {
+            "id": "068e9850-d911-467b-9136-fb46b36356bb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "defActions",
+            "varType": 6
+        },
+        {
+            "id": "24c03ac5-db7e-43b2-a27d-260dcd5e5eff",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "correctDefAction",
+            "varType": 2
         }
     ],
     "solid": false,
