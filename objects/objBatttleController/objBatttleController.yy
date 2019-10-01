@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "objBatttleController",
     "eventList": [
-        
+        {
+            "id": "f992d7de-ae35-423a-8d25-8a39490b8b76",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "79c9dd38-3911-4acc-9449-da9afd4415b9"
+        },
+        {
+            "id": "74746fdd-5c17-45a5-897c-e6c26d87a096",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 7,
+            "m_owner": "79c9dd38-3911-4acc-9449-da9afd4415b9"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,7 +41,64 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "564555d7-7eba-4219-ad1b-5499207a15dc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "currentPP",
+            "varType": 1
+        },
+        {
+            "id": "18a384e3-f68a-4f72-ba4a-bfb0fa42a8a1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "maxPP",
+            "varType": 1
+        },
+        {
+            "id": "7740775d-dd51-4d22-ad6c-c91c78ed4558",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "enemyObj",
+            "varType": 5
+        },
+        {
+            "id": "6a28d284-7844-4c28-beaf-30d3a1a382bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "turnCount",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02671865-d164-481d-bf77-dc53323698b3",
+            "Value": {
+                "id": "78d6f65e-6bc8-4f92-9133-cf508e0638d2",
+                "resourcePath": "sprites\\sprNeighborsDog\\sprNeighborsDog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05e38514-0967-425a-af27-72c8b0ae9d48",
             "Value": {
                 "id": "0c569c5a-93fe-408c-a93c-f70acdbccf28",
@@ -119,14 +127,6 @@
             }
         },
         {
-            "Key": "4882ef51-108f-4150-9ac4-9777f8ed2bcd",
-            "Value": {
-                "id": "c30ff641-573a-40ed-b967-f54744b77a93",
-                "resourcePath": "objects\/objTextbox\/objTextbox.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4ed1ba8f-06e1-4bd5-8ae5-4dbd6d9233d7",
             "Value": {
                 "id": "2fdd10b1-35b8-4d8b-98b2-b5cb5c6b18d7",
@@ -191,19 +191,19 @@
             }
         },
         {
-            "Key": "79c9dd38-3911-4acc-9449-da9afd4415b9",
-            "Value": {
-                "id": "0d315242-d3e7-4139-9c69-3f8e2e227d7b",
-                "resourcePath": "objects\/objBatttleController\/objBatttleController.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7e95a50e-e3f8-4424-ba60-127319cf8a9e",
             "Value": {
                 "id": "8d73e79a-e584-4650-9766-64c64063306f",
                 "resourcePath": "views\/7e95a50e-e3f8-4424-ba60-127319cf8a9e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ba06379-3416-44fb-8bf1-026fca3e28af",
+            "Value": {
+                "id": "4c39cd46-7918-46a3-8628-fc748a0f7043",
+                "resourcePath": "objects\/objEnemy\/objEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -355,6 +355,14 @@
             "Value": {
                 "id": "79dba558-6ebc-4fab-9c19-498b2b898812",
                 "resourcePath": "sprites\/sprDummyEnemy\/sprDummyEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ecfcf99d-8410-4b9a-9cca-74c38b306b21",
+            "Value": {
+                "id": "c5e89e4d-cf25-4d27-9e92-aec7a548e95e",
+                "resourcePath": "sprites\/sprTxtAdvance\/sprTxtAdvance.yy",
                 "resourceType": "GMSprite"
             }
         },
