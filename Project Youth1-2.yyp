@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "1596cf74-c9ba-4274-85df-a0bfaba4cf8c",
+            "Value": {
+                "id": "9fe561a0-5a07-423a-a8dd-79c65ef16c9a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objTextBox\/objTextBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "174f53ca-4f06-4c7e-b80c-72c11ed2a5e9",
             "Value": {
                 "id": "6a37fe64-f9d3-45c4-960c-3348fe7c2620",
