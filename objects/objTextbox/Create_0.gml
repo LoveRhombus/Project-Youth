@@ -3,7 +3,7 @@ boxWidth = sprite_get_width(sprTextbox);
 stringHeight = string_height(text);
 boxPadding = 20;
 global.battleTextBox = self;
-//image_alpha = 1;
+image_alpha = 0;
 //event_inherited();
 
 
